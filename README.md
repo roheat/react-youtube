@@ -14,7 +14,7 @@ Run Command:
 
 	npm start
 
-# What I Learned
+What I Learned
 ------------
 
 * React Component Life Cycle Methods
